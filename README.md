@@ -59,6 +59,6 @@ Para ejecutar el proyecto:
         └── SortMethods.java
 ``` 
 ## Conclusión
-La práctica sobre la teoría de la complejidad permitió comprender cómo se mide la eficiencia de los algoritmos a través de funciones de crecimiento y notaciones asintóticas como Big O, Ω (Omega) y Θ (Theta). Estas herramientas son fundamentales para predecir el comportamiento de los algoritmos en distintos escenarios (mejor, peor y promedio caso). Además, se analizó el impacto del coste temporal y espacial, reconociendo que la elección del algoritmo adecuado depende tanto de factores teóricos como del contexto de ejecución. Este estudio proporciona una base sólida para evaluar el rendimiento algorítmico antes de su implementación en sistemas reales.
+La práctica sobre la teoría de la complejidad permitió comprender cómo se mide la eficiencia de los algoritmos a través de funciones de crecimiento y notaciones asintóticas como Big O, Ω (Omega) y Θ (Theta). Estas herramientas son fundamentales para predecir el comportamiento de los algoritmos en distintos escenarios (mejor, peor y promedio caso). Además, se analizó el impacto del coste temporal y espacial, reconociendo que la elección del algoritmo adecuado depende tanto de factores teóricos como del contexto de ejecución. Este estudio proporciona una base sólida para evaluar el rendimiento algorítmico antes de su implementación en sistemas reales.    
 
 
