@@ -1,18 +1,61 @@
-## Getting Started
+# Teoría de la Complejidad
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📌 Información General
 
-## Folder Structure
+- **Título:** Analisis de la teoría de la complejidad
+- **Asignatura:** Estructura de Datos
+- **Carrera:** Computación
+- **Estudiantes:** Jaime Loja, Ivanna Nievecela
+- **Fecha:** Cuenca, 11 de mayo de 2025
+- **Profesor:** Ing. Pablo Torres
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🛠️ Descripción
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Este proyecto tiene como objetivo introducir los fundamentos de la teoría de la complejidad, centrándose en el análisis del rendimiento de los algoritmos. Se presentan conceptos clave como:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Coste temporal y espacial
+- Factores que influyen en el tiempo de  ejecución
+-Análisis teórico y experimental
+-Notación Big O y otras notaciones asintóticas
+---
 
-## Dependency Management
+## 🚀 Ejecución
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Para ejecutar el proyecto:
+
+1. Compila el código:
+    ```bash
+    javac App.java
+    ```
+2. Ejecuta la aplicación:
+    ```bash
+    java App
+    ```
+
+## 🧑‍💻 Ejemplo de Entrada
+```plaintext
+----------Programa Funciona----------
+
+-----Benchmarking funcionando-----
+```
+ 
+## 📷 Captura de Pantalla
+![alt text](image.png)
+
+## 📁 Carpeta del proyecto
+```
+    icc-est-u1-teoriaDeComplejidad-1
+    ├── REDNAME.md
+    ├── .vsCode
+    ├── bin
+        ├── App.class
+    ├──src
+    ├──src_py
+        ├── App.py
+        ├── Benchmarking.java
+        ├── Grafica.py
+        └── SortMethods.java
+
+``` 
